@@ -8115,10 +8115,10 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Brush Script MT Italic', 'Brush Script MT', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
-  font-size:48px;
+  font-size:35px;
   color:#FFFFFF;
 }
 #u177 {
@@ -8129,10 +8129,10 @@
   width:374px;
   height:47px;
   display:flex;
-  font-family:'Brush Script MT Italic', 'Brush Script MT', sans-serif;
+  font-family:'Merriweather Italic', 'Merriweather Regular', 'Merriweather', sans-serif;
   font-weight:400;
   font-style:italic;
-  font-size:48px;
+  font-size:35px;
   color:#FFFFFF;
 }
 #u177 .text {
